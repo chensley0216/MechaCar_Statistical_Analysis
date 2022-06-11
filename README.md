@@ -23,3 +23,11 @@ In the data below, the difference in the mean and median is not more than 100, m
 
 ## T-Tests on Suspension Coils
 
+
+<img width="443" alt="Screen Shot 2022-06-10 at 10 56 37 PM" src="https://user-images.githubusercontent.com/100445222/173170041-3d7449c4-73aa-411e-a75c-b455d43c2be5.png">
+
+<img width="480" alt="Screen Shot 2022-06-10 at 10 56 45 PM" src="https://user-images.githubusercontent.com/100445222/173170042-1f4a9e09-ef1c-4eb6-9d38-42585c2496a3.png">
+
+<img width="515" alt="Screen Shot 2022-06-10 at 10 56 51 PM" src="https://user-images.githubusercontent.com/100445222/173170043-7d06d8fe-1d04-4128-abc7-e2918ecaebdc.png">
+
+<img width="499" alt="Screen Shot 2022-06-10 at 10 57 01 PM" src="https://user-images.githubusercontent.com/100445222/173170044-2d6c01be-6473-4826-9d05-cb071d9321ee.png">
